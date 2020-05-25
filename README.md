@@ -2,7 +2,7 @@
 
 API NODEJS-EXPRESS-MYSQL-SEQUELIZE-JEST.
 
-Esta API tráz, grava e manipula os dados de clientes(id, nome, email e data de aniversário) através das operações de CRUD(create, read, update e delete). Além de podermos manipular dados dos clientes também foi implementada a função de paginação na listage de clientes, assim melhorando a performace no carregamento dos dados. E por fim testamos nossas rotas Http com o auxilio da ferramenta JEST.
+Esta API tráz, grava e manipula os dados de clientes(id, nome, email e data de aniversário) através das operações de CRUD(create, read, update e delete). Além de podermos manipular dados dos clientes também foi implementada a função de paginação na listagem de clientes, assim melhorando a performance no carregamento dos dados. E por fim testamos nossas rotas Http com o auxilio da ferramenta JEST.
 
 
 ||-- TECNOLOGIAS --||
